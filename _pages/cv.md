@@ -119,6 +119,7 @@ Technical Skills
 ======
 **Machine Learning**
 * Proficient in PyTorch, TensorFlow, scikit-learn, Spark, Jupyter Notebook
+
 **Programming**
 * Proficient in Python, C, C++, MATLAB, Git, Linux CLI
 * Familiar with SQL, Java, R, VHDL, ROS
