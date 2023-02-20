@@ -17,7 +17,7 @@ Education
 
 Research Experience
 ======
-**Emory University**
+**Emory University**  
 Graduate Researcher, Kamaleswaran Lab (2020 – Present)
 *Advisor: Dr. Rishikesan Kamaleswaran*
 * Utilized bias correction methods such as transfer learning and domain adaptation to develop more equitable and generalizable risk prediction models
@@ -26,14 +26,14 @@ Graduate Researcher, Kamaleswaran Lab (2020 – Present)
 * Used EMR data and uncertainty sampling methods to improve the performance of predictive models for sepsis onset in adults 
 * Developed machine learning pipelines using Python
 
-**University of Kansas**
+**University of Kansas**  
 Graduate Researcher, Humanoid Engineering and Intelligent Robotics Lab (2018-2020)
 *Advisor: Dr. Andrew Williams*
 * Developed the Artificially Intelligent Disability Assistant (AIDA) to improve the productivity and confidence of workers with disabilities
 * Collected data by observing and interviewing individuals with disabilities who worked in a manufacturing facility
 * Programmed the NAO and Pepper humanoid robots using Python
 
-**Marquette University**
+**Marquette University**  
 Undergraduate Researcher, Research Experience for Undergraduates (Summer 2015)
 *Mentor: Dr. Andrew Williams*
 * Designed mobile robotics curriculum for middle school girls to stimulate interest in STEM and help close the gender gap in STEM careers
@@ -41,19 +41,19 @@ Undergraduate Researcher, Research Experience for Undergraduates (Summer 2015)
 
 Industry Experience
 ======
-**IBM Systems (Poughkeepsie, NY)**
+**IBM Systems (Poughkeepsie, NY)**  
 Software Developer, Artificial Intelligence (2022)
 * Worked with the backend machine learning team (50 members) within the Electronic Design Automation department
 * Used graph neural networks to develop a framework for predicting congestion, timing, and power design metrics using Python and TensorFlow
 * Developed educational resources for graph neural networks for the Electronic Design Automation department (200 members) using Python and Jupyter notebooks
 
-**IBM Research (Yorktown Heights, NY)**
+**IBM Research (Yorktown Heights, NY)**  
 Software Developer, IBM Research AI (Fall 2021)
 * Worked with the Research AI Analog AI team (20 members) in the Research Department
 * Implemented state-of-the-art computer vision architecture on an analog chip simulation toolkit using Python and PyTorch
 * Developed features for analog chip simulation toolkit using Python and PyTorch
 
-**IBM Systems (Poughkeepsie, NY)**
+**IBM Systems (Poughkeepsie, NY)**  
 Software Developer, Artificial Intelligence (Summer 2020 – Summer 2021)
 * Worked with the Electronic Design Automation placement team (65 members) in the Systems Department
 * Implemented algorithm for congestion-driven global placement using C and C++
@@ -62,7 +62,7 @@ Software Developer, Artificial Intelligence (Summer 2020 – Summer 2021)
 
 Teaching Experience
 ======
-**Emory University**
+**Emory University**  
 Teaching Assistant, Systems Programming (Spring 2022)
 * Assisted with labs for 50 students
 * Graded midterms and exams
@@ -79,7 +79,7 @@ Teaching Assistant, Introduction to Computer Science I (Spring 2021)
 * Held 5 hours of office hours a week
 * Answered students’ questions on Piazza platform
 
-**University of Kansas**
+**University of Kansas**  
 Graduate Teaching Assistant, Computer Systems Design Lab (Fall 2019 – Spring 2020)
 * Supervised 20 students during lab sessions
 * Advised students on solutions to project design problems
@@ -126,9 +126,9 @@ Technical Skills
 
 Honors and Awards
 ======
-Centennial Scholars Fellowship, Emory University (2020 – Present)
-GEM Full Fellow, Emory University (2020 – Present)
-GEM Associate Fellow, University of Kansas (2019 – 2020)
+Centennial Scholars Fellowship, Emory University (2020 – Present)  
+GEM Full Fellow, Emory University (2020 – Present)  
+GEM Associate Fellow, University of Kansas (2019 – 2020)  
 Moore School Cwikla Award, University of Pennsylvania (2016)
 
 <!-- May add these sections back later on  -->
