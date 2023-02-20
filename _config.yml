@@ -149,6 +149,7 @@ exclude:
   - _talks
   - _teaching
   - _portfolio
+  - _posts
   - _pages/markdown.md
 keep_files:
   - .git
