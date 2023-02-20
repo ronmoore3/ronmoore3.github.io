@@ -87,7 +87,7 @@ author:
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=zp6piuIAAAAJ&hl=en"
-  email            :
+  email            : "ronald.moore@emory.edu"
   researchgate     : "https://www.researchgate.net/profile/Ronald-Moore-8"
   uri              :
   bitbucket        :
@@ -146,6 +146,10 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - _talks
+  - _teaching
+  - _portfolio
+  - _pages/markdown.md
 keep_files:
   - .git
   - .svn
