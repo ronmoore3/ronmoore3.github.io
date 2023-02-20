@@ -18,7 +18,7 @@ Education
 Research Experience
 ======
 **Emory University**  
-Graduate Researcher, Kamaleswaran Lab (2020 – Present)
+Graduate Researcher, Kamaleswaran Lab (2020 – Present)  
 *Advisor: Dr. Rishikesan Kamaleswaran*
 * Utilized bias correction methods such as transfer learning and domain adaptation to develop more equitable and generalizable risk prediction models
 * Utilized active learning techniques for data with limited clinical adjudications
@@ -27,14 +27,14 @@ Graduate Researcher, Kamaleswaran Lab (2020 – Present)
 * Developed machine learning pipelines using Python
 
 **University of Kansas**  
-Graduate Researcher, Humanoid Engineering and Intelligent Robotics Lab (2018-2020)
+Graduate Researcher, Humanoid Engineering and Intelligent Robotics Lab (2018-2020)  
 *Advisor: Dr. Andrew Williams*
 * Developed the Artificially Intelligent Disability Assistant (AIDA) to improve the productivity and confidence of workers with disabilities
 * Collected data by observing and interviewing individuals with disabilities who worked in a manufacturing facility
 * Programmed the NAO and Pepper humanoid robots using Python
 
 **Marquette University**  
-Undergraduate Researcher, Research Experience for Undergraduates (Summer 2015)
+Undergraduate Researcher, Research Experience for Undergraduates (Summer 2015)  
 *Mentor: Dr. Andrew Williams*
 * Designed mobile robotics curriculum for middle school girls to stimulate interest in STEM and help close the gender gap in STEM careers
 * Gained programming experience with the Intel Galileo microcontroller
